@@ -30,7 +30,7 @@ Witches can also cure Zombie Illagers. Zombie illagers cured by witches are alwa
 
 # Yet another Game Mod: Henry Stickmin Collection Bio Journal is downright terrible.
 I was playing the Henry Stickman collection as a breather from my previous activity: Complaining about UI. 
-This left me very prepared to tackle the Bio Section of the Henry Stickmin game. The Bio section is a UX experience so bad that, if I saw it on a website, I would condemn that website with great pussiance.
+Unfortunantly, this turned out to not be a break at all. The Bio section is a UX experience so bad that, if I saw it on a website, I would condemn that website with great pussiance.
 
 Policeman-turned-military Rupert Prince is one of the the most prolific characters in the Henry Stickmin collection, appearing in 4 games.
 
@@ -56,3 +56,16 @@ I do use linebreaks! I use the "Enter Key" to break sentances into lines: see? E
 <img width="1411" height="142" alt="image" src="https://github.com/user-attachments/assets/6ad3deed-5532-4d28-b029-1a2959f48a13" />
 The issue is that these single-linebreaks gets smushed together when displaying the .MD. Tapping "Enter" twice is gangly and awkward, why can't I create a chrome extension that automatically does it for me?
 A chrome extension for ensuring my linebreaks that I broke the line with are indeed linebreaks.
+
+# Station-Neutral Amtrak Schedual Search.
+From Washington D.C, I want to take a trip to Richmond, Virginia. 
+Quite fortunently, Amtrak has a Trip-planner for things like these: https://www.amtrak.com/home.html 
+Unfortunantly, Amtrak Assumes too great a specificity. There are two different Richmond stations, meaning I have to query twice.
+This gets worse. I am visiting family on a weekend trip. I am ambivalent between arriving at Richmond between Late Friday and early Saturday. 
+There is no way to select a date range, meaning I have to query twice again for this time discrepancy.
+
+At least I'm not going from Richmond to Boston. Boston has 3 train stations. I would have to make 2(# of Richmond train stations) * 3 (# of Boston Train stations) * 2(departure ambivilance) *2 (return trip departure ambivilance) = 24 seperate queries! 
+
+If I make this Amtrak API-accessing app, It should support connections. If I want to go from Sandpoint, Idaho to Memphis, Tennessee via train, that should be doable!
+Multiple cities would also be nice. If I want to go on a grand trip, touring the cities of Mobile, Alabama; Dodge City, Kansas; Lincoln, Nebraska; and Detroit Michigan, that requires multiple stops!
+Integration with a City's subway system would be a cherry on top. It might be a requirement, too, for taking into account connections in cities with multiple train stations.  
