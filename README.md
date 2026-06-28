@@ -47,7 +47,10 @@ Sorting! Sort by name, as well as faction, # of games, and difficulty stars.
 
 When switching games within the Bio section, switch to the same person, if possible.
 
-I don't know what the Henry Stickmin collection is programmed in, nor do I know how to mod it. But if this was React, the suggestions mad shouldn't take too long.
+I don't know what the Henry Stickmin collection is programmed in, nor do I know how to mod it. But if this was React, the suggestions made shouldn't take too long.
+
+Oh, and one more thing: After 100%-ing the game, there's a small multiverse/Marvel-style after-end-credits scene.
+I, a normal, tried to right-click on any person I saw. Nothing happened. No Easter-Egg bios! Ridiculous.
 
 # Chrome Extension: Writing Github Readmes. I want a linebreak, stupido!
 
