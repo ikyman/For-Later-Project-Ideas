@@ -72,3 +72,11 @@ At least I'm not going from Richmond to Boston. Boston has 3 train stations. I w
 If I make this Amtrak API-accessing app, It should support connections. If I want to go from Sandpoint, Idaho to Memphis, Tennessee via train, that should be doable!
 Multiple cities would also be nice. If I want to go on a grand trip, touring the cities of Mobile, Alabama; Dodge City, Kansas; Lincoln, Nebraska; and Detroit Michigan, that requires multiple stops!
 Integration with a City's subway system would be a cherry on top. It might be a requirement, too, for taking into account connections in cities with multiple train stations.  
+
+# Yet another Video Game Mod, this time adding Explosions to Mudrunner. Explosions and better winches.
+The game Mudrunner has the Fuel Truck. I Parked a fuel truck in the middle on the road and switched to a different truck. I then rammed the Fuel truck at top speed, as one does.
+The ramming truck was smashed up, and required repairs to start moving again. The rammed fuel truck, on the other hand, walked this crash off.
+Come on! This is a fuel truck! I wanted a Kaboom!
+Hence Mudrunner's addition to the "For-Later-Project-Ideas-The-List-That-Is-Rapidly-Turning-Into-A-Potential-Video-Game-Mod-List" List. Explosions! If you're careless enough, you might end up with too few trucks or fuel stations to complete the level. On the plus side, you get to see the Driver ragdoll-ing.
+
+The winch controls could be improved, too. To get to the winch, I have to open up advanced Mode. Advanced mode disables my engine. If I'm stuck and want to use a combination of winch+engine to get myself free, that requires an extra key-press over allowing me to start driving immediatly.
