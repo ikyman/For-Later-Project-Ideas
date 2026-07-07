@@ -80,3 +80,16 @@ Come on! This is a fuel truck! I wanted a Kaboom!
 Hence Mudrunner's addition to the "For-Later-Project-Ideas-The-List-That-Is-Rapidly-Turning-Into-A-Potential-Video-Game-Mod-List" List. Explosions! If you're careless enough, you might end up with too few trucks or fuel stations to complete the level. On the plus side, you get to see the Driver ragdoll-ing.
 
 The winch controls could be improved, too. To get to the winch, I have to open up advanced Mode. Advanced mode disables my engine. If I'm stuck and want to use a combination of winch+engine to get myself free, that requires an extra key-press over allowing me to start driving immediatly.
+
+# C-Plus-Plus Database Setup 
+Not every project is public. On one of my not-public projects, I needed to store data in a database. This was in C++.
+I had a seperate executable for Database Setup. 
+
+This Database Setup was _Heavily_ Django-inspired. The Database Setup executable itself served as a conductor for running various migrations needed to ensure the database is up and running and ready to interact with the rest of the code.
+
+The entire idea behind this list of "For Later project Ideas" was that I have too many projects already. With so many already-existing Projects, the inevitable happened.
+I have a second project written in C++ that will use the libpqxx library for interacting with the database. 
+
+Let me review my options: I can type manually something that would be simular-to-but-not-quite what I have already. This will give my carpal tunnel syndrome.
+Option 2 is to copy-paste my Database setup from my ooh-so-secret project into my less-secret-but-Ill-eventually-make-it-public project. This is a trawdy move. 
+This leaves only option #3: Create another project, this time for setting up the database for any C++ projects that use libpqxx! 
