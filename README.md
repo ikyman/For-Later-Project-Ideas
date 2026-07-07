@@ -52,13 +52,6 @@ I don't know what the Henry Stickmin collection is programmed in, nor do I know 
 Oh, and one more thing: After 100%-ing the game, there's a small multiverse/Marvel-style after-end-credits scene.
 I, a normal, tried to right-click on any person I saw. Nothing happened. No Easter-Egg bios! Ridiculous.
 
-# Chrome Extension: Writing Github Readmes. I want a linebreak, stupido!
-
-I recognise This Github Readme looks unorganized. It looks like I have no idea what a linebreak is nor how to use one.
-I do use linebreaks! I use the "Enter Key" to break sentances into lines: see? Each point is one or two sentances, and takes 1 line.
-<img width="1411" height="142" alt="image" src="https://github.com/user-attachments/assets/6ad3deed-5532-4d28-b029-1a2959f48a13" />
-The issue is that these single-linebreaks gets smushed together when displaying the .MD. Tapping "Enter" twice is gangly and awkward, why can't I create a chrome extension that automatically does it for me?
-A chrome extension for ensuring my linebreaks that I broke the line with are indeed linebreaks.
 
 # Station-Neutral Amtrak Schedual Search.
 From Washington D.C, I want to take a trip to Richmond, Virginia. 
@@ -93,3 +86,19 @@ I have a second project written in C++ that will use the libpqxx library for int
 Let me review my options: I can type manually something that would be simular-to-but-not-quite what I have already. This will give my carpal tunnel syndrome.
 Option 2 is to copy-paste my Database setup from my ooh-so-secret project into my less-secret-but-Ill-eventually-make-it-public project. This is a trawdy move. 
 This leaves only option #3: Create another project, this time for setting up the database for any C++ projects that use libpqxx! 
+
+# Chrome Extension: Writing Github Readmes. I want a linebreak, stupido!
+
+I recognise This Github Readme looks unorganized. It looks like I have no idea what a linebreak is nor how to use one.
+I do use linebreaks! I use the "Enter Key" to break sentances into lines: see? Each point is one or two sentances, and takes 1 line.
+<img width="1411" height="142" alt="image" src="https://github.com/user-attachments/assets/6ad3deed-5532-4d28-b029-1a2959f48a13" />
+The issue is that these single-linebreaks gets smushed together when displaying the .MD. Tapping "Enter" twice is gangly and awkward, why can't I create a chrome extension that automatically does it for me?
+A chrome extension for ensuring my linebreaks that I broke the line with are indeed linebreaks.
+
+# "Update Readme.md" What a useless message!
+Scene: The THINKER has finished wighting a request for a C++ Database Setup app. The thinker hits "commit". 
+THINKER: "At last! Let me confirm my changes, for I am done."
+But No! Plot twist! The commit name for the "C-Plus-Plus Database Setup" is "Update Readme.md". "Update readme.md"? What got updated? That's a rotten name!
+Changing a commit name is possible with "git commit --amend". Unfortunantly, that command isn't available on GitHub.com . This Repo is pretty much only a readme. I don't have a local branch. I cannot use the terminal to run "git commit --amend". I would like to be able to run this git commit --amend from the browser! The browser already knows what commit, repo, & user is being refered to, after all.
+
+A secondary consideration is why the default name was "Update Readme.md" in the first place. I had a header line! Why not use the New # Header line for the default name if one is added?
