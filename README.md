@@ -102,3 +102,20 @@ But No! Plot twist! The commit name for the "C-Plus-Plus Database Setup" is "Upd
 Changing a commit name is possible with "git commit --amend". Unfortunantly, that command isn't available on GitHub.com . This Repo is pretty much only a readme. I don't have a local branch. I cannot use the terminal to run "git commit --amend". I would like to be able to run this git commit --amend from the browser! The browser already knows what commit, repo, & user is being refered to, after all.
 
 A secondary consideration is why the default name was "Update Readme.md" in the first place. I had a header line! Why not use the New # Header line for the default name if one is added?
+
+# My "Pygame Buttons for a user interface" From the Map-Resizer.
+Aaah! A Tie-in! Video games plus "Things I've done before". I once wanted to resize a Video Game Map.
+More accurately, I wanted the map re-sized. I refused to do it myself. I made a program to do this for me. 
+Not only would I refuse to re-size the map myself, I refused to Re-size this map without a good UI. 
+I was using Pygame for the front-end of the program. Unfortunantly, Pygame doesn't have any built-in objects for things like buttons.
+Long story short, I wound up (with the help of a little bit of AI) writing a collection of UI Elements, including Buttons, checkboxes, and textareas. 
+
+[I later Wrote a tutorial on using Various Front-end Framework](https://github.com/ikyman/A-Gio-Exposition-for-Pygame-Tkinter-Folk/tree/main )s (2/3rds done at the time of this writing.). The trilingual program written used buttons. Gee Willakers! I have buttons in Pygame. I Copy-pasted a Pared-down version of the UI collection.
+
+Copy-Pasting was fine in this particular context. This was a tutorial on how to use Pygame, after all. "Import an outside library to learn how clicking works" is wildly unhelpful. I was obligated to explain the guts!
+
+What prompts this addition to the list is this: I may want to once again add a button or a textarea to a Pygame Program. When that happens, I will refuse to write the button once again. Repo the UI Interactable collection, & hook it to my pip!
+
+[I have competition in this realm](https://github.com/AustL/PygameWidgets)! I have two options here: Option 1: The way of the most serene stream: There already is a Widget Library. It has many stars, I'm sure it's entirely adequite. Could use a Builder pattern, though.
+Option 2: The way of the steadfast ox: A coup! Seize the Realm of Pygame Widgets! I already have a half-tutorial I can repurpose for ease-of-adoption purposes. I could also blow people away if I make a video series! It'll juice up my view & subscriber count, too. 
+That of corse, begs the question on how that programming tutorial will even look like.
