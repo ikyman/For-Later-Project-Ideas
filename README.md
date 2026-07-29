@@ -120,3 +120,10 @@ What prompts this addition to the list is this: I may want to once again add a b
 [I have competition in this realm](https://github.com/AustL/PygameWidgets)! I have two options here: Option 1: The way of the most serene stream: There already is a Widget Library. It has many stars, I'm sure it's entirely adequite. Could use a Builder pattern, though.
 Option 2: The way of the steadfast ox: A coup! Seize the Realm of Pygame Widgets! I already have a half-tutorial I can repurpose for ease-of-adoption purposes. I could also blow people away if I make a video series! It'll juice up my view & subscriber count, too. 
 That of corse, begs the question on how that programming tutorial will even look like.
+
+# Emojis In GitHub:
+I recently Wanted to add an Emoji to a comment on one of my commits:
+I did the obvious: I searched for the Emoji button.
+There was no Emoji Button.
+I managed to manage by opening Discord, typing all my emojis there, & Copy-Pasting. 
+How does Github not have these on-hand? This certainly goes on my "Annoyances that I could fix using my computer science knowledge, but don't want to on account of having too many projects already". 
