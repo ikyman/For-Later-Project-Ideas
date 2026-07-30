@@ -122,7 +122,7 @@ Option 2: The way of the steadfast ox: A coup! Seize the Realm of Pygame Widgets
 That of corse, begs the question on how that programming tutorial will even look like.
 
 # Emojis In GitHub:
-I recently Wanted to add an Emoji to a comment on one of my commits:
+I recently Wanted to add an Emoji to a comment on one of my commits.
 I did the obvious: I searched for the Emoji button.
 There was no Emoji Button.
 I managed to manage by opening Discord, typing all my emojis there, & Copy-Pasting. 
@@ -138,10 +138,32 @@ What shifted my Irk-dom into overdrive is this: I already had a photograph. I ha
 
 [HEY!](https://www.youtube.com/watch?v=2GlbODa0HFo)
 
-I can Build a Machine Vision program*! This Program takes in a photo of a Lego Model. The Program returns an estimated list of parts needed to build said model.
+I can Build a Machine Vision program`*`! This Program takes in a photo of a Lego Model. The Program returns an estimated list of parts needed to build said model.
 
-* Then Again, Maybe I can't. On the one hand, finding training data should be easy: I can use Official Lego Sets, which have their lists of parts listed. 
+`*` Then Again, Maybe I can't. On the one hand, finding training data should be easy: I can use Official Lego Sets, which have their lists of parts listed. 
 On the other hand, there are a [billion ways to combine 6 Lego 2-by-4 bricks. ](https://web.math.ku.dk/~eilers/lego.html). With Lego, output sets add up FAST.
 What would the output Vector be? What would be the output of this Optimized Linear Algebra jumble?
 A Vector, where V_i = the likelihood of the piece associated with position i is in the photographed model?
 That would lead the output Vector too big! Historically, my forays in machine learning can be summarized as "Wait 10 minutes: Enough time to get bored but not enough time to render switching activities worth it. Model Fails. Rinse and Repeat". Make 6 tweaks, re-run model training 6 times, and BOOM! An entire hour! Wasted! Completely wasted! With no redemption!  
+
+# "Hey! I've got a fun Game! Like, Y'know, A Joke."
+
+AutoAudioAuxilery (GitHub Link: Currently Non-Existant) Provides the Filler word Detection.
+https://github.com/shiranD/interruption_detection provides interruption detection, and I ASSUME it provides speaker Identification, too.
+
+Bolt those two programs together. Now all I need is a word-counter to assign per person.
+A word counter, and an end-of-sentence detection, if the end-of-sentence-detection isn't already handled by AutoAudioAuxilery.
+
+The aim: Slap a microphone in the middle of a table. Feed the recording into this program. 
+This program then generates a list of Persons, along with a whole load of data about that person's speaking patterns.
+
+The game is this: With said anonymized list of persons, would it be possible to assign each conversationalist to each anonamous portrait?
+
+Issues: 1. AutoAudioAuxilery isn't done. Nor is it started, unless you count the Audacity & Excel files + an empty CMakeLists as "Starting a Project".
+2. I have never used the interruption_detection program, nor do I know how it works. 
+3. I have read the book "How to Win Friends and influence people". Igniting an argument over who interrupts or overuses the word "Like" the most isn't in Carnegie's list of recommendations.
+4. Games have to have a win condition: Being right. The program therefore has to ID each speaker. Another Module to bolt on! [That means more work](https://www.youtube.com/watch?v=liuNSRIcfSQ)!
+There are two methods of identifying people. Identifing people without visuals nor context relies on the good will of third persons. Furthermore, I might forget that people can have more than one name, and my app accidentally splits the one person "Harold Odie" into 4 different dossiers for "Harry", "Harold", "Odie", and "Garf". 
+I could also identify people by triangulating their position by via two speakers. This can be defeated by the inconvenient human behavior called "Moving".
+5. AutoAudioAuxilery 's .aup has a section titled "Token Female Representation". This "Token Female Representation" section is 50% male anyways. 
+I would be pleasantly surprised if AutoAudioAuxilery can handle women without additional .aups. Using anything derived from AutoAudioAuxilery with more than 2 people runs the almost certain risk of running into a woman, a situation it would be wholly unprepared for. 
