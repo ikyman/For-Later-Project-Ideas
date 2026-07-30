@@ -127,3 +127,21 @@ I did the obvious: I searched for the Emoji button.
 There was no Emoji Button.
 I managed to manage by opening Discord, typing all my emojis there, & Copy-Pasting. 
 How does Github not have these on-hand? This certainly goes on my "Annoyances that I could fix using my computer science knowledge, but don't want to on account of having too many projects already". 
+
+# A "Bar"? That's A Ladder! 
+I made a MOC. This MOC was quite neat-o. I therefore resolved to capture that form in an easily digestible digital form. I shall make an MLCAD Model!
+
+Turning an IRL-Model into a LDRAW Model means I double the duty of finding parts for that model: I already fished out the IRL piece from my Lego Collection.
+Now, too, I have to crawl through the very expansive list of parts in the LDraw Parts catalogue to somehow isolate the corresponding part. Woe upon me if my Personal name for a part differs from LDraw's name for that part!
+
+What shifted my Irk-dom into overdrive is this: I already had a photograph. I have the physical model in my hands! I know what part I want! Right there! In front of my Eyes!
+
+[HEY!](https://www.youtube.com/watch?v=2GlbODa0HFo)
+
+I can Build a Machine Vision program*! This Program takes in a photo of a Lego Model. The Program returns an estimated list of parts needed to build said model.
+
+* Then Again, Maybe I can't. On the one hand, finding training data should be easy: I can use Official Lego Sets, which have their lists of parts listed. 
+On the other hand, there are a [billion ways to combine 6 Lego 2-by-4 bricks. ](https://web.math.ku.dk/~eilers/lego.html). With Lego, output sets add up FAST.
+What would the output Vector be? What would be the output of this Optimized Linear Algebra jumble?
+A Vector, where V_i = the likelihood of the piece associated with position i is in the photographed model?
+That would lead the output Vector too big! Historically, my forays in machine learning can be summarized as "Wait 10 minutes: Enough time to get bored but not enough time to render switching activities worth it. Model Fails. Rinse and Repeat". Make 6 tweaks, re-run model training 6 times, and BOOM! An entire hour! Wasted! Completely wasted! With no redemption!  
