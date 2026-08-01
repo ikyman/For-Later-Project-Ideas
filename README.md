@@ -167,3 +167,17 @@ There are two methods of identifying people. Identifing people without visuals n
 I could also identify people by triangulating their position by via two speakers. This can be defeated by the inconvenient human behavior called "Moving".
 5. AutoAudioAuxilery 's .aup has a section titled "Token Female Representation". This "Token Female Representation" section is 50% male anyways. 
 I would be pleasantly surprised if AutoAudioAuxilery can handle women without additional .aups. Using anything derived from AutoAudioAuxilery with more than 2 people runs the almost certain risk of running into a woman, a situation it would be wholly unprepared for. 
+
+# Excel could Excel with Excellent Colouration!
+For my [Egyptian Senet Issue](https://github.com/ikyman/Non-AI-Chess-AI/issues/11) in https://github.com/ikyman/Non-AI-Chess-AI , I put together a silly graph.
+<img width="958" height="523" alt="image" src="https://github.com/user-attachments/assets/edab6e62-f418-4ce0-bf41-635d053d117d" />
+
+I want you to imagine: Imagine I didn't leave the graph unlabeled. Imagine I instead gave it a title: "Senet Interest over time".
+Now imagine that my computer didn't try to correct "Senet"(Ancient Egyptian board game) to "Senate"(Collection of Boring Ancients). 
+
+Ancient Egypt? Graph Colour Palette solved! Yellow and Blue! 
+Then what? After having my colour palatte chosen for me via the Ancient Egypt theme, I had to manually pick them out myself! With my fingers and mouse!
+
+This shouldn't be tremendously difficult: Thanks to CMYA, Colours are already enumerated. Take in the graph/page/file title as a word-vector encoding, output a handful of colors, & then contrast-correct to ensure the resulting graph is readable.
+
+Ironically, I recently was reminded that I once interviewed with the "Microsoft 360 Copilot Team", the Microsoft team for implementing exactly the suggestion I laid above.
