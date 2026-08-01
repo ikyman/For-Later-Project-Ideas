@@ -170,7 +170,7 @@ I would be pleasantly surprised if AutoAudioAuxilery can handle women without ad
 
 # Excel could Excel with Excellent Colouration!
 For my [Egyptian Senet Issue](https://github.com/ikyman/Non-AI-Chess-AI/issues/11) in https://github.com/ikyman/Non-AI-Chess-AI , I put together a silly graph.
-<img width="958" height="523" alt="image" src="https://github.com/user-attachments/assets/edab6e62-f418-4ce0-bf41-635d053d117d" />
+<img width="945" height="514" alt="image" src="https://github.com/user-attachments/assets/52392e48-7517-4303-8c6c-90b0ce0d066d" />
 
 I want you to imagine: Imagine I didn't leave the graph unlabeled. Imagine I instead gave it a title: "Senet Interest over time".
 Now imagine that my computer didn't try to correct "Senet"(Ancient Egyptian board game) to "Senate"(Collection of Boring Ancients). 
