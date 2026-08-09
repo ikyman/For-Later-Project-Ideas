@@ -181,3 +181,35 @@ Then what? After having my colour palatte chosen for me via the Ancient Egypt th
 This shouldn't be tremendously difficult: Thanks to CMYA, Colours are already enumerated. Take in the graph/page/file title as a word-vector encoding, output a handful of colors, & then contrast-correct to ensure the resulting graph is readable.
 
 Ironically, I recently was reminded that I once interviewed with the "Microsoft 360 Copilot Team", the Microsoft team for implementing exactly the suggestion I laid above.
+
+# Better Kill Ticket Distributions
+I once was playing one of those "Hundreds of players Build a Minecraft Civilization" Events.
+Most of these events have "Kill Tickets". Wanna Kill someone? Gotta write a little ticket explaining why this homicidal inclination is justified, lore-wise. 
+This Prevents RDMs, or "Random Death by a Maniac". Also known as "Wow! Someone's back is turned! Free Stuff!"
+My Guess is that Kill tickets also help with writing the script for the final Video: If an important character is killed, voila! The explanation is right there!
+
+I so happened to want to kill someone. I wrote a kill-ticket. I waited.
+Then I waited and waited and Waited some more. Staff! What is your Problem! You're too Slow! 
+
+During this time waiting for my kill ticket, I pondered on the trials and tribulations of event staff.
+What if I was staff? Would I have answered my ticket? no cap that fr sound like an "ohio" from me, blud.
+
+At least from the Ticket-requestor side, a new kill ticket creates a new Discord channel.
+Combing through 300 tiny paragraphs in 300 auto-generated Discord channels falls is drudgery.
+
+The workflow could be improved via exporting all the data to Excel. Then I can sort by Kill Requestor and Requestor Victim.
+That could speed things up a little. Sorting by Requested Victim handles the cases where a group plans a hit on someone. That's nice. Good Luck, have fun, you're all approved!
+
+That would only marginally speed up Kill-Ticket Processing, though. Hence this App Idea.
+Features: This combs through the list of accepted players. This also combs through the "Business/Faction" advertisements Channel.
+If the bot is allowed on a Business/Faction server, it also scans for assigned roles for a particular player.
+From this, the program can get the basic information about each player: Namely the Factions & "Importance" (Assigned), as well as any other manually-assigned tags that may be pertinent to the event.
+
+This little information (Plus a good UI), should speed up kill-ticket processing quite a bit. Large numbers of kill tickets across two factions? The Buck gets passed on from here! It's not up to the staff to prevent two countries from hating each other. Mass approved! Doubly-so if the National Leaders themselves put hits on the other sides.
+One person with many kill tickets but little "Official" Position? Probibally deserved it, Mass approve, 7 tickets processed in around a second. Horray!
+Mutual Kill Tickets (ActionSolo Requests to kill BumbledBe, BumbledBe Requests to kill ActionSolo)? Reading both of their explanations at the same time WOULD help me come to the same decision. 
+What would also be helpful is knowing if anyone related to either ActionSolo or BumbledBe has any opinions on which of the two should die. 
+
+I can have filtering, too. Someone posting a hit on someone of the same faction _is_ fratricide! That certainly is the sort of tricky situations which require a more wholistic Birds-eye view.
+
+This app might be formed around a "WorkQuenue". Epic had "WorkQuenues" For similar processing.
