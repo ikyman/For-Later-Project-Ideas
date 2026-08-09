@@ -213,3 +213,36 @@ What would also be helpful is knowing if anyone related to either ActionSolo or 
 I can have filtering, too. Someone posting a hit on someone of the same faction _is_ fratricide! That certainly is the sort of tricky situations which require a more wholistic Birds-eye view.
 
 This app might be formed around a "WorkQuenue". Epic had "WorkQuenues" For similar processing.
+
+# Acrostic Puzzle Quote Validator.
+7:47PM: "Today I shall make an Acrostic Puzzle", I said.
+The Quintessential Acrostic Puzzle is a quote. The cossword-esque puzzle itself contains the quote, while the first letters of each clue spells out the speaker of said quote.
+
+After agonizing for hours over which quote and which quote-maker to use I finally settled on "You think you just fell out of a coconut tree? You exist in the context of all in which you live and what came before you." -Kamala Harris. Great! Quote found. Now it's time to start writing all the clues!
+
+Unfortunately, no. You think you just fell out of a coconut tree? You exist in the context of all in which you live and what came before you." -Kamala Harris can't comport with an Acrostic.
+The first hint has to start with "K", meaning "K" has to be a letter in the quote. Does "Coconut" have a K in it? No!
+
+In theory, I could design the puzzle so that the first letter of every clue is omitted from the quote. Doable, but this reduces crossover, thereby making the puzzle harder.
+
+Back to the drawing board! I'm going to have to find another Quote! "Eat My Shorts" (Bart Simpson)? No, that also doesn't work.
+Why should I be the one to cross-check the acrostic Koshur-levels? 
+
+Here's my Proposal: I input a Quote-maker. The computer automatically Queries WikiQuote for Quotes by said person. If every letter of the Quote-makers name is found within the quote, Voila! A Quote for my Acrostic! Now I can get to the fun part, writing clues!
+
+Wikiquote also stores quotes by movies. Nice! I can also quote movies in my acrostics. 
+
+Additional QOL Factors: For Non-English Speakers, allow for some synonym-subbing.
+"If we find them in the toilet, we'll rub them out in the outhouse" - Putin is the version Wikiquote has. This has no 'p', and is therefore invalid. However, I have seen an alternate version, 
+"If we find them in the toilet, we'll wipe them out in the outhouse" - Putin. This has a "p", and therefore comports with Acrostic puzzle etiquette. 
+What words are croppable? In order for my hints to not be too long or too short, being able to keep or throw out non-essential words gives me sweet, precious freedom!
+
+Separate "Quotes By X" from "Quotes About X".
+"I felt a bit better. If Neil Armstrong felt like an imposter, maybe everyone did" - Neil Armstong is a vastly different quote than
+"I felt a bit better. If Neil Armstrong felt like an imposter, maybe everyone did" - Neil Gaiman
+
+"This isn't on Wikiquote but I Like it.": Run the Acrostic rules on user-inputted quotes. Shouldn't be too hard.
+ 
+There have been a Dozen Acrostic-Puzzle-Helpers made so far: Why should this one be different?
+Most of the existing ones on GitHub Query AI or require an API. Acquire API Access for an Acrostic? No thanks!
+Most of the existing Github Acrostic Repos also focus on solving an acrostic, not making them. Perhaps that explains all the Required APIs.
