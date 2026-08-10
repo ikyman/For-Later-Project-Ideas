@@ -255,3 +255,25 @@ Then, I close the tabs. Either through trigger-happiness or a wide Ctrl-W Catch-
 This erases all of the previous changes. Now I have to write this again! I hate Writing, this redundancy is indeed foul!
 
 My solution: Add a "You have unsaved changes" Pop-up. 
+
+# Dual-Language filtering.
+I recently wanted to review, to snuggle, my collection of "Terribly-written Games from Middle School". 
+The only programming language I knew in Middle School was Python. Hence all of my "Terribly-written Games from Middle School" were in Python. 
+I Filtered my GitHub repository by Python.
+<img width="289" height="355" alt="image" src="https://github.com/user-attachments/assets/ddb29c41-11ed-48ef-ab3b-42b778819ea9" />
+But wait! [Pizza Quest](https://github.com/ikyman/Pizza-Quest) I judged to be similar enough to a visual novel. I created and Empty Ren'py Project. 
+Then I sent this Empty Ren'Py Project to join the Pre-Ren'Py Python code. The Ren'Py Overpowered the Python: Pizza Quest is Ren'Py now!
+
+I'm still looking to snuggle collection of "Terribly-written Games from Middle School". I update my language filter: Python OR Ren'Py.
+<img width="289" height="355" alt="image" src="https://github.com/user-attachments/assets/66b22402-8dbc-46ea-9457-1b94781bf7d4" />
+
+However! Such filtering is Impossible! I can only filter one Language at a time! No Multi-select!
+
+ More filtering suggestions: Whhaddya think the "Py" In "Ren'Py" stands for? There's other examples where Languages are similar enough that they should be grouped together. 
+ Typescript is Javascript with Types. C++ and C have are Quasi-Siamese twins. Once I had a C/C++ project in early stages of production, so that CMake eked out a plurality over both C and C++. CMake? For Making C. 
+
+Speaking of pluralities, GitHub's handling of Multi-Language Repositories is less than stellar. A Language that takes up 35% of a repository is significant! Yet GitHub completely ignores such substantial sections in favor of the language of absolute plurality.
+
+This is Basic Poli-Sci, how could my Programming Platform flop like this? I could forsee myself wanting to filter over "Programmed with Java" instead of "Java Project"
+
+Allow "None of the Above/Below" As a filtering option. https://github.com/ikyman/For-Later-Project-Ideas is entirely a Readme, and thus invisible to this Language Filtering.
