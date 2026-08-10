@@ -246,3 +246,12 @@ Separate "Quotes By X" from "Quotes About X".
 There have been a Dozen Acrostic-Puzzle-Helpers made so far: Why should this one be different?
 Most of the existing ones on GitHub Query AI or require an API. Acquire API Access for an Acrostic? No thanks!
 Most of the existing Github Acrostic Repos also focus on solving an acrostic, not making them. Perhaps that explains all the Required APIs.
+
+# I'm in the middle of Edits! Gimme a Popup!
+
+This has happened twice already. Twice! I was writing something in one of my Github .README s. I switch to another tab, to gather information pertinent to what I'm writing in the README.
+Then, I close the tabs. Either through trigger-happiness or a wide Ctrl-W Catch-net, the initial README is closed.
+
+This erases all of the previous changes. Now I have to write this again! I hate Writing, this redundancy is indeed foul!
+
+My solution: Add a "You have unsaved changes" Pop-up. 
