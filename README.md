@@ -285,3 +285,20 @@ Speaking of pluralities, GitHub's handling of Multi-Language Repositories is les
 This is Basic Poli-Sci, how could my Programming Platform flop like this? I could forsee myself wanting to filter over "Programmed with Java" instead of "Java Project"
 
 Allow "None of the Above/Below" As a filtering option. https://github.com/ikyman/For-Later-Project-Ideas is entirely a Readme, and thus invisible to this Language Filtering.
+
+# "Thanks for the info, I'll be sure to... do... something."
+This happens every time whenever I appear in-person in the job search. I forget to schedule an hour next day for the inevitable follow-ups.
+Ugh! I hate following Up! Following up is chewing on the cud of failure. That was the whole point of handing out resumes in the first place! You Follow up on me! 
+I want said follow-ups to be as fast as possible: Then I can get it over with, and do something, anything else!
+
+As it stands, I have my notepad on my desk. I have to phone phone numbers manually, query career pages via typeing in the url, and a whole lot of busy-work.
+My notebook is quite messy: My handwriting isn't very neat, half the time I'm without a table to write on, and companies are mish-mashed across the page. 
+
+Here's what I propose: Optical Character Recognition. Take a photo of the page and create a nice and orderly table. This table has company, Action-item, any names I acquired, plus extra notes I may have jotted down.
+Thus, All I have to do is click to email/call/go to "career page" (I get shunted to the "career page" a lot. Career Page! Totally Useless at anything related to career!)
+I can also click a name to get a Linkdin Query of the "Related Person". 
+The table can also Track done-ness, after I do any actionable Item.
+
+An Issue I see arising is for phone calls: The phone is my computing device with a much more convenient camera. The phone is also the device that's in use during phone calls. Try to call? Wave goodbye to your script & Notes!
+
+Alternatively, I could grab a green crayon & shade green any "Follow-up" that is done. Don't get the links to do said action 25% faster though!
