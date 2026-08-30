@@ -264,6 +264,12 @@ This erases all of the previous changes. Now I have to write this again! I hate 
 
 My solution: Add a "You have unsaved changes" Pop-up. 
 
+Editor's note: This issue is especially infuriating because editing a comment creates a pop-up of the exact type I want for Editing a file
+<img width="433" height="136" alt="image" src="https://github.com/user-attachments/assets/ce83229a-63c3-4529-a0f4-b81942488a11" />
+
+Which dunderhead decided that adding a comment was important enough to require a "Changes you made might not be saved" popup, yet editing a file is frivolous activity that can be abandoned with little consequence?
+I'll tell you what this choice does: this leaves me expecting a pop-up on the vastly more important "editing a file". What is a Readme if not COMMENTary on a particular repo?
+
 # Dual-Language filtering.
 I recently wanted to review, to snuggle, my collection of "Terribly-written Games from Middle School". 
 The only programming language I knew in Middle School was Python. Hence all of my "Terribly-written Games from Middle School" were in Python. 
