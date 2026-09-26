@@ -308,3 +308,14 @@ The table can also Track done-ness, after I do any actionable Item.
 An Issue I see arising is for phone calls: The phone is my computing device with a much more convenient camera. The phone is also the device that's in use during phone calls. Try to call? Wave goodbye to your script & Notes!
 
 Alternatively, I could grab a green crayon & shade green any "Follow-up" that is done. Don't get the links to do said action 25% faster though!
+
+# Youtube Gini Coefficiant
+I was curious about a YouTube channel's "Gini Coefficient". How much of a YouTube channel's views is due to a single very-viewed video?
+
+The good news is that there's APIs for that: https://developers.google.com/youtube/v3/guides/implementation/videos
+The bad news is that by default, I get a 403 : forbidden error for "unregistered callers".
+
+Drat! Now my choices are to either: 
+1. Type in my API Key. Isn't that a re-hash of my Google account? A .gitignored .env? *Sigh*. Is there anything else I can do? Why not
+2. Make this a Chrom Extension. Ask the user to click the "Sort by popular button", jquery all the Video thumbnails, grab the view counts, and ignore any videos to unpopular to be shown. I was mostly interested channels with fewer and less frequent uploads, so this ignoring shouldn't be an issue! But this is a higgledy-piggledy solution, which requires that I ASSUME that the distribution across the top 30 videos mirrors the distribution over all videos. Nor can I filter by upload date, or add any other nice features. *Sigh* Not a fan. Why not
+3. Admit that My interest level in this project has dropped to the "Maybe do in the future, but I'm busy now" tier. Aha! And so it is!
