@@ -319,3 +319,36 @@ Drat! Now my choices are to either:
 1. Type in my API Key. Isn't that a re-hash of my Google account? A .gitignored .env? *Sigh*. Is there anything else I can do? Why not
 2. Make this a Chrom Extension. Ask the user to click the "Sort by popular button", jquery all the Video thumbnails, grab the view counts, and ignore any videos to unpopular to be shown. I was mostly interested channels with fewer and less frequent uploads, so this ignoring shouldn't be an issue! But this is a higgledy-piggledy solution, which requires that I ASSUME that the distribution across the top 30 videos mirrors the distribution over all videos. Nor can I filter by upload date, or add any other nice features. *Sigh* Not a fan. Why not
 3. Admit that My interest level in this project has dropped to the "Maybe do in the future, but I'm busy now" tier. Aha! And so it is!
+
+# Point of Sale: Ping your database faster!
+
+Because it turns out that Software Programming is an utterly zero-value skill, I am currently doing a retail job. This is to avoid going broke.
+
+Something that drove me batty at my previous job at Epic was each and every interaction with HyperSpace came paired with 1/3rd of a second of delay. 
+Now at my new retail job, what do I encounter? I beep an items, and 1/3rds of a second of delay. The same delay screen! Infuriating! 
+Imagine playing Mirror's edge with 1/3rds of a second of delay. It would be impossible. The envision of speed is gone!
+
+I suspect this delay in the retail Software is due to pinging the Database. Epic's Database was gigantic. There's millions of Patients alone, let alone the other INIs! 
+Removing any 1/3rd second delays in Epic is impossible. There's too many entries
+For my "Don't go broke as a student job"? I suspect our inventory is at max 10,000 items. Orders can extend into infinity, but I will have doubt if they too extend into the 10-thousands.
+
+There are a handful of little tricks one can do to speed up database operations: Aliases, Virtual Databases, etc.
+I remember hearing that GoLang was designed in part for speedy Database interactions. [Citation needed]
+I've only used GoLang with a SQL Database a little bit (see https://github.com/ikyman/Subdivision-Density ).
+GoLang is a nice Language, though! (I guess, from 2 error messages, that the Point of sale software my establishment uses is written in C#)
+
+This POS system should have:
+1. Barcode scanner integration.
+2. Key-Remapping. Video games allow for me to re-map any key I want. 
+3. Fingerprint sensor? There hasn't been enough incentive for me to take the 3 keystroke movements to log off my co-workers profile and onto my own. A Fingerprint sensor cuts that down to 1 keystroke.
+4. Order tracking.
+5. Expiration date tracking.
+
+I'm not high-level enough for management, but if I was, I would assume that "looking around the store to see what we have is" is below my paygrade. 
+I keep track of what goes in (via orders) and what goes out (via sales, accidents (AKA accidents logged into the system), expiration, and "Extra constant for stealing, etc" )
+I can keep track of how fast Items sell, I know roughly how long an order takes to be carried out, I can get the computer to JIT it for me!
+
+An Extra bonus of this project is that I can finally find a better acronym than "[POS](https://www.mspaintadventures.com/004729)".
+
+When I decide to move this project from "eh, do it later" to something I'd work on, another boon rears it's head:
+I can send this project plan to Point-of-sale company with the threat of "Hire me or you have extra competition"
