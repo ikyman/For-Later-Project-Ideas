@@ -352,3 +352,23 @@ An Extra bonus of this project is that I can finally find a better acronym than 
 
 When I decide to move this project from "eh, do it later" to something I'd work on, another boon rears it's head:
 I can send this project plan to Point-of-sale company with the threat of "Hire me or you have extra competition"
+
+# Die! Die Die Die Die Die! Worthless insect!
+
+Scene: Eating outside. A Wasp comes to molest your food. Very annoying!
+
+There is a simple solution to this dilemma: Kill the wasp. Pop a Clap in his ass.
+
+If only this was so easy! I Know that this isn't easy, because I've certainly killed such an unwelcome intruder. Yet I do not recall my wasp kill count being particularly high.
+
+What makes this especially infuriating is that Wasps are not exactly worthy advisories. Nex time a wasp attempts to violate your sandwich, observe the pattern. It's flying in a sign wave! This should be utterly predictable! Utterly Killable! 
+
+Alas, the wasp invokes special move: "Fourier transform shenanigans", meaning that the amplitude of this wave diminishes over time. Furthermore, this sine wave is in three dimensions. Even with the margin of error that "Surface area of Human Hands > Wasp" Gives you, Killing that darn wasp is hard!
+
+This proposed program would be a training program for helping a user kill that Sandwich-molesting wasp. Strap two Motion-detecting Device Devices upon one's wrists. Train so that such "Forier transform shenanagins" has no power upon me. I desire death, and you shall not escape it, my little black & yellow friend.
+
+Pop a clap in his ass. 
+
+On the "For Later Projects Ideas" because: A. This should really be VR to truly allow the user to accurately gauge wasp distance. I have no VR.
+
+Winter! Jack Frost can and will Exterminate the unwelcome insect without any programming or swatting effort on my part.
