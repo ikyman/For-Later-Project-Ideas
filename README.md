@@ -372,3 +372,23 @@ Pop a clap in his ass.
 On the "For Later Projects Ideas" because: A. This should really be VR to truly allow the user to accurately gauge wasp distance. I have no VR.
 
 Winter! Jack Frost can and will Exterminate the unwelcome insect without any programming or swatting effort on my part.
+
+# Two pip-installs, both alike in dignity.
+
+I am a 1337 Gamer. It goes without saying that I have Pip-installed Pygame.
+
+I know (as much as anyone with 0 years of professional experience) C++, and have an interest in Finance. Money!
+Once when I was searching for Open-source projects to contribute to (and perhaps not be unemployed), I chose https://github.com/lballabio/QuantLib/issues/2278 .
+
+Thus I ended up Pip-installing both Pygame AND Quantlib. An Odd combination. How many other people have that unusual combination?
+
+From this, spawned a temptation: Combine the two in one project... 
+
+Pygame? Py-Game. Game! This Pygame-QuantLib project should therefore be a game.
+A Day-trading game is no fun, plus it would entirely subordinate pygame to quantlib. Unfair!
+Thus, in order for this game to be an equitable marriage of these two utterly incompatible libraries, I have to abstract the quantitative-finance calculations of Quantlib at least somewhat.
+
+<img width="130" height="200" alt="image" src="https://github.com/user-attachments/assets/3d069860-e0ba-40c9-bc2e-a85dc3edf76a" />
+
+Aah! Ren'Py! the Visual Novel Engine! Too bad visual novels have practically no user input whatsoever. That being said, a visual novel is only a short drive away from a Dating Sim, and Ren'Py is also used in dating sims. 
+Could that be the QuantLib abstraction I'm looking for? A Dating Sim with a Quantum Finance Relationship-mathematical underpinning? That'll be either an enormous insult to all of [DATE-BLE_GENDER]-kind, or a quant-um leap in Dating Sim Sophistication!
