@@ -392,3 +392,11 @@ Thus, in order for this game to be an equitable marriage of these two utterly in
 
 Aah! Ren'Py! the Visual Novel Engine! Too bad visual novels have practically no user input whatsoever. That being said, a visual novel is only a short drive away from a Dating Sim, and Ren'Py is also used in dating sims. 
 Could that be the QuantLib abstraction I'm looking for? A Dating Sim with a Quantum Finance Relationship-mathematical underpinning? That'll be either an enormous insult to all of [DATE-BLE_GENDER]-kind, or a quant-um leap in Dating Sim Sophistication!
+
+# A Very fancy Tech Tree. 
+
+Alternatively, when I decide to finally make a Civ Clone, technological progress could be another QuantLib Abstraction!
+
+Technological Progress is uncertain. Using a framework that accounts for that uncertainty would be... Technological progress.
+
+Wheather it's a useful step on the tech tree remains to be seen.
