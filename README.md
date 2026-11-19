@@ -400,3 +400,16 @@ Alternatively, when I decide to finally make a Civ Clone, technological progress
 Technological Progress is uncertain. Using a framework that accounts for that uncertainty would be... Technological progress.
 
 Wheather it's a useful step on the tech tree remains to be seen.
+
+# Music Switch-up and playlist creation
+
+At my "don't Go Broke" job, the playlist is decisively fixed. I have no say in what gets played.
+
+I can see why this playlist isn't free & open to all editing. [Some songs aren't safe for work](https://www.youtube.com/watch?v=gAYL5H46QnQ). That being said, some variety would be nice! Jazz it up a 'lil bit.
+
+Jazz? That's a separate genre. There's no need for the genre played to be the same every day of the year. 
+Hence, the idea for this program. First it allows for anonymous playlist additions. Then this playlist categorizes songs sorted by the best playlist/theme for time of day and season. Most likely this will involve some kind of "Unsupervised learning."
+
+No longer is my musical suggestion merely "Lowkey I want another song"! Now, it's a brilliant ploy to invite more foot-traffic! If it doesn't work, oh well, play it during some not-very-busy downtime.
+
+Note that copyright is still an issue. Going to have to integrate the copyright for each and every song suggestion. I'd also want this to somehow quash the "All the roads lead to Rome" issue that AI can sometimes end up as. Hopefully the diverse song suggestions made by staff create a diverse enough set of starting positions that the ending position also winds up diverse.
