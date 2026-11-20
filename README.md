@@ -413,3 +413,34 @@ Hence, the idea for this program. First it allows for anonymous playlist additio
 No longer is my musical suggestion merely "Lowkey I want another song"! Now, it's a brilliant ploy to invite more foot-traffic! If it doesn't work, oh well, play it during some not-very-busy downtime.
 
 Note that copyright is still an issue. Going to have to integrate the copyright for each and every song suggestion. I'd also want this to somehow quash the "All the roads lead to Rome" issue that AI can sometimes end up as. Hopefully the diverse song suggestions made by staff create a diverse enough set of starting positions that the ending position also winds up diverse.
+
+# Is this Party Started?
+
+Imagine Hyping up a party of over social event, only for too few people to show up? That's an egg on my face! 
+I want to avoid such an egg on my face. I want to have at least, X, people showing up. 
+
+Simple enough. That's either a Binomial Distribution or a Negative Binomial distribution. 
+
+But wait! Different people have a different %age chance of showing up. P would be different. I'm sure you expected that catch: Otherwise, I would have used the Neg-Bin or Binomial, and wouldn't need a new entry to https://github.com/ikyman/For-Later-Project-Ideas at all.
+
+There's another wrinkle: What if I'm encouraging any invitee to further invite others. Helpful for getting my total party participants up to X.
+However, 1. That's one more unknown variable that'll be hard to model. I don't have enough information about that! 
+2. If everyone at my bash if from the same group, then it's not really my party anymore? I'm in danger of getting Usurped!
+I have to somehow pull a number or distribution per each invitee to account for the number of guests they bring.
+Much like the issue of having not enough people, guest concentration also calls for inviting more people! Gotta avoid the egg on my face!
+
+Previously, I went to a lot of software developer networking events. A common complaint I've heard is no-shows. The number of people who signed up is never accurate. 
+Ordering pizza for the group is thus a fraught task! 
+
+You would think that Meetup would help: each attendant-guest already has to create an account to log in, estimate the likelihood they show up to any given event. Aggregate all these Probabilities, and voila! The organizer has the probabilities of any given number of attendants.
+Alternatively, with less stalking, I could simply ask the organizer to estimate the probabilit(ies) himself. A Visualized Binomial distribution is still better than nothing
+
+You would think that would be the case, but another common complaint is meetup is bad and trash. 
+From a meet-up organizer's perspective, there are two more issues: The first is this https://github.com/ikyman fellow.
+
+I, not being an organizer, never had any incentive to sign-up.
+Sign-ups? Accounts? No, no. Nice try, CIA! I'm not a sheeple! I always showed up technically unannounced. 
+Oh well, add either a %age increase or a flat "we know this one guy often shows up but doesn't RSVP" number can fix the gaping organizational hole I've left.
+
+There's one more factor: one which relates to both the personal get-together and any official event: The weather. 
+Although it would be easier to eschew weather service integration, this is a big factor affecting how many people show up! 
