@@ -444,3 +444,17 @@ Oh well, add either a %age increase or a flat "we know this one guy often shows 
 
 There's one more factor: one which relates to both the personal get-together and any official event: The weather. 
 Although it would be easier to eschew weather service integration, this is a big factor affecting how many people show up! 
+
+# Fine. I'll jump on the bandwagon. D-melanogaster brain plays videogame.
+
+Everyone is doing it: Plugging in a purported Fruit-fly brain into all sorts of odd situations. 
+
+I'm skeptical that this is a real Fruit-fly brain. First of all, this is a simulated brain: A mapping of all the connections of a D-Melanogaster brain in an electronic form.
+How does either doom or doomscrolling gets translated into a fruit-fly's sight-feel-smell senses? Why does a fruit-fly even want to do anything besides beeline to the nearest banana?
+
+Sounds to me that the behavior of this "Fruit-fly" is entirely dependent on how the inputs and rewards are determined, an entirely arbitrary criterion set by the programmer.
+The "Fruit Fly Brain" is a fancy label for a an architecture. 
+
+Why then, am I putting this on the list? All the cool kids are doing it. That's it.
+
+In any case, this is the best "fruit-fly brain does xyz" video I've found with a single search: https://www.youtube.com/watch?v=70aWzwpmp20 
