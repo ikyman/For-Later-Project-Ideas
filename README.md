@@ -458,3 +458,28 @@ The "Fruit Fly Brain" is a fancy label for a an architecture.
 Why then, am I putting this on the list? All the cool kids are doing it. That's it.
 
 In any case, this is the best "fruit-fly brain does xyz" video I've found with a single search: https://www.youtube.com/watch?v=70aWzwpmp20 
+
+# I OD-ed on Caffeine, and now I'm crashing out at the drop of a hat. Trust me, this crashout only serves to mildly delay another crashout in the works.
+Alas! https://github.com/ikyman/The-OTHER-YouTube-Extension-you-never-heard-about is in development Limbo due to JavaScript's oddball importing constraints.
+
+<img width="442" height="330" alt="image" src="https://github.com/user-attachments/assets/6b83c21e-147a-404c-b79f-adc6c1ca5e73" />
+
+"Hmm. 'A game from 1999'? Not simply any game from 1999, but a singular time-saving wonder from 1999. I can clearly see from the title this video is referring to Age of Empires 2 (AoE2). Alright then, how does the game Age of Empires 2 respect my time over and above not only 2026 games, but other 1999 games?" 
+
+In my opinion, the question wasn't answered. The primary argument was that modern games have all sorts of dark patterns that push players to pay. On the other hand, AoE2 is a good game, with most of its components right out of the box.
+Huh? A lack of microtransactions? AoE2 doesn't have microtransaction because it's from 1999. The digital infrastructure required for microtransactions to be viable didn't exist.
+You may notice two points: 
+1. "Technological constraints forced a different business model for old games, one which produces better games" can be summed up in far less time than the 18 minutes. This is also a definite answer to the "Why Games from 1999 respect time more than 2026 games", as opposed to the slightly-less in-depth "How Games from 1999 respect time more than 2026 games"
+2. The tech level of 1999 isn't unique to AoE2. The title said, "A Game from 1999", with a picture of an AoE2 Teutonic Knight, not "Games from 1999" or "Pre-internet games".
+Perhaps an argument can be made is that AoE2 is special.  AoE2 it survives and thrives even in the modern day. AoE2 gets regular updates even in the 2020s. AoE2 could have laden with all sorts of player-peeving "innovations" during that time. That AoE2 avoided such a fate is interesting! Why?
+The Video Doesn't answer. 
+I Crashed out. I crashed out hard, I'm still malding about it. 
+I crashed out so hard, in fact that I almost immediately headed over to AI and asked it to write a ~16 minute script for "Why a 1999 Game (AoE2) Respects Your Time More Than 2026 Games".
+I then fed the AI-Generated script into a second AI instance and asked AI 2 if AI 1's Script was answered the " a 1999 Game (AoE2) Respects Your Time More Than 2026 Games" question.
+AI 2 gave me the thumbs up. I was not convinced. I did not read AI 1's script. It was too long.
+
+AI scripts... that's doable? Heck, Why don't I use AI to create an AoE2-related Script? Slam together a whole bunch-a https://github.com/ikyman/The-OTHER-YouTube-Extension-you-never-heard-about Patterns, get a Title, feed that title into a script, and Voila! The resulting Video won't be very good, but hey! Passing the slop on will sooth my system.
+
+[If I do decide to follow the suggestion made above:
+1. spin off an ikyman3-slop channel. I'm not infesting my proper channel with random AI-Written surface-level commentary, even if AI 2 (same model as AI 1) thumbs-up the script.
+2. If that's going to be a series, wield the Pen Of Red Ink. A seperate series critiquing the AI-slop, as a counter-example! Get better at staying on-message, and get better at this "Smart AI Use" ]
